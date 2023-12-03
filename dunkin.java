@@ -1,6 +1,6 @@
 class Main {
 
-  public static void string(String[] args) {
+  public static void string(prog[] args) {
     
     int first = 45;
     int second = 20;
