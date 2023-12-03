@@ -1,6 +1,6 @@
 class Main {
 
-  public static void main(String[] args) {
+  public static void main(char[] args) {
     
     int first = 65;
     int second = 20;
